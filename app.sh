@@ -1,4 +1,4 @@
-Hello, User welcome to the git
+Hello, Rajesh welcome to the git
 
 Please login with your credentials
 
@@ -8,7 +8,7 @@ Please login with your credentials
       Login
 
 
-Hello, User welcome to the git
+Hello, Ganesh welcome to the git
 
 You can login withe credential
 s
