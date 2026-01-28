@@ -1,2 +1,6 @@
 Hello, Ganesh welcome to the git
-Please login to explore more features
+Please login with your credentials
+ User Name : admin
+ Password  : admin
+
+      Login
